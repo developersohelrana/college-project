@@ -150,3 +150,96 @@ transition: all linear .3s;
    padding: 20px;
    border: 1px solid #d6d6d6;
 }
+
+/*================================
+ convenience style 
+==============================*/
+
+#convenience{
+    background: #f0efef;
+    margin-top: 150px;
+    padding-bottom: 150px;
+}
+.convenience-heading{
+    text-align: center;
+    margin-top: 140px;
+
+}
+.convenience-heading h3{
+    font-size: 28px;
+    font-weight: 700;
+
+}
+.convenience-card{
+    text-align: center;
+    background: #ffffff;
+    padding: 50px 10px 50px 10px;
+    margin-top: 50px;
+    transition: all linear .3s;
+}
+.convenience-card:hover{
+    box-shadow: -2px 0px 10px -2px rgba(0,0,0,0.79);
+    -webkit-box-shadow: -2px 0px 10px -2px rgba(0,0,0,0.79);
+    -moz-box-shadow: -2px 0px 10px -2px rgba(0,0,0,0.79);
+    transition: all linear .3s;
+}
+.convenience-card img{
+    width: 50px;
+}
+.convenience-card h3{
+    font-size: 24px;
+    color: #222222;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+}
+.convenience-card p{
+    font-size: 14px;
+    color: #808080;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+
+
+}
+/*================================
+ choose style 
+==============================*/
+#choose{
+    background: #f0efef;
+    padding-bottom: 150px;
+}
+.choose-heading{
+    text-align: center;
+}
+.choose-heading h3{
+    font-size: 28px;
+    font-weight: 700;
+}
+.chosse-content{
+    margin-top: 70px;
+    background: #ffffff;
+    padding: 30px 10px 20px 10px;
+    transition: all linear .3s;
+
+}
+.chosse-content:hover{
+    box-shadow: -2px 0px 10px -2px rgba(0,0,0,0.79);
+    -webkit-box-shadow: -2px 0px 10px -2px rgba(0,0,0,0.79);
+    -moz-box-shadow: -2px 0px 10px -2px rgba(0,0,0,0.79);
+    transition: all linear .3s;
+}
+.chosse-content h3{
+    font-size: 24px;
+    color:#00b1ff ;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.chosse-content p{
+    font-size: 16px;
+    color: #808080;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+}
