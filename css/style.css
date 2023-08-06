@@ -243,3 +243,148 @@ transition: all linear .3s;
     font-family: 'Poppins', sans-serif;
     margin-top: 10px;
 }
+
+
+
+/*================================
+ packege style 
+==============================*/
+#packege{
+    background:url(../images/package-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 100px;
+    
+}
+
+.packege-heading{
+    text-align: center;
+    padding-top: 140px;
+}
+.packege-heading h3{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.packege-section-main{
+    margin-top: 70px;
+}
+
+
+.packege-section-bottom
+{
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.pricing-bottom-content h6{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.pricing-bottom-content p{
+    font-size: 16px;
+    color: #808080;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+}
+.packege-bottom-pricing {
+    text-align: center;
+}
+.packege-bottom-pricing h5 {
+    color: #00b1ff;
+    font-size: 22px;
+    font-weight: 700;
+}
+.packege-bottom-pricing h6 span {
+    color: #fc0000;
+}
+.rating{
+    border: 1px solid #0000;
+}
+
+/*================================
+ Satisfices style 
+==============================*/
+
+#satisfices{
+    background: #ef5b5b;
+    padding-top: 116px;
+    padding-bottom: 116px;
+}
+.satisfices-icon{
+    float: right;
+}
+.satisfices-content h3{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+
+}
+.satisfices-content h6{
+    color: #ffffff;
+}
+
+/*================================
+ Brand partner style 
+==============================*/
+#band-partner{
+    background: url(../images/sponser-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 150px;
+}
+.partner-logo{
+    margin-top: 70px;
+}
+
+/*================================
+ Message style 
+==============================*/
+
+.message-heading h3{
+    color: #000000;
+}
+#message{
+    padding-bottom: 150px;
+}
+.messege-input{
+    margin-top: 100px;
+}
+.messege-input input{
+    padding: 15px 300px 15px 15px;
+}
+.messege-right{
+    margin-top: 100px;
+}
+.messege-right textarea{
+    padding: 10px;
+}
+
+/*================================
+ footer style 
+==============================*/ 
+#footer{
+    padding-top: 100px;
+    background-color: #f0efef;
+}
+.footer-content p{
+    font-size: 16px;
+    color: #808080;
+    margin-top: 20px;
+}
+
+#copy-right{
+    background-color: #00b1ff;
+    text-align: center;
+    margin-top: 10px;
+}
+#copy-right p{
+    color: #ffffff;
+}
